@@ -47,6 +47,7 @@ Icons made by the community
 A collection of animated icons  
 [useanimations](https://useanimations.com/)  
 A collection of animated icons  
+[Iconbuddy](https://iconbuddy.com/)  
 
 ## Google Cloud
 
@@ -78,6 +79,8 @@ online compiler which shows the assembly output
 up-to-date browser support table  
 [AlgoExpert](https://www.algoexpert.io/systems/product)  
 Courses about algorithms, system design, programming, infrastructure  
+[Refactoring Guru](https://refactoring.guru/)  
+Refactoring and Design Patterns  
 
 ### C / C++
 
