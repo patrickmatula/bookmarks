@@ -1,6 +1,6 @@
 # bookmarks :book:
 A curated list of my personal all-time favorites bookmarks.  
-My monthly findings are available on: [blog.patrickmatula.com - Linkdumps](https://blog.patrickmatula.com/tags/linkdump/)
+My monthly findings are available on: [linkdump.patrickmatula.com](https://linkdump.patrickmatula.com)
 
 ## Azure
 
@@ -120,6 +120,8 @@ Document management system that transforms your physical documents into a search
 High performance self-hosted photo and video management solution  
 [Hoarder](https://github.com/hoarder-app/hoarder)  
 bookmark-everything app with a touch of AI for the data hoarders out there.  
+[Uptime Kuma](https://github.com/louislam/uptime-kuma)  
+Uptime Kuma is an easy-to-use self-hosted monitoring tool.  
 
 ## Windows
 
