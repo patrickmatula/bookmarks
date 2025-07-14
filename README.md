@@ -22,6 +22,11 @@ List of all different microsoft portals
 Infographic for Intune to get to the official documentation  
 [Microsoft Cybersecurity Reference Architectures (MCRA)](https://learn.microsoft.com/en-us/security/cybersecurity-reference-architecture/mcra)  
 [Azure VM Comparison](https://instances.vantage.sh/azure/)  
+[Azure Landing Zones - Enterprise Scale](https://github.com/Azure/Enterprise-Scale)  
+[Azure Landing Zones Documentation](https://azure.github.io/Azure-Landing-Zones)  
+Information about deploying with Terraform  
+[Azure Landing Zones Library](https://azure.github.io/Azure-Landing-Zones-Library)  
+[AMBA - Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts)  
 
 ## Design
 
