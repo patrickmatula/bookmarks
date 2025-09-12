@@ -69,7 +69,7 @@ Course by Kelly Vaughn
 
 ## Networking
  
-[Getting Started with Wireshark - The Ultimate Hands-On Course](https://courses.davidbombal.com/p/wireshark-lab-chris-greer)  
+[Wireshark Certified Analyst (WCA) - The Complete Hands-On Course by Chris Greer](https://packetpioneer.com/courses/wca/)  
 [Wireshark Profiles](https://gitlab.com/WiresharkProfiles/profiles)  
 
 ## Programming
