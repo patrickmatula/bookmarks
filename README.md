@@ -9,6 +9,7 @@ Azure Updates visualized
 [Azure Networking Guides](https://github.com/adstuart)  
 Articles relating to the design and configuration of Azure Networking solutions and products  
 [Microsoft Entra ID Mind Map](https://entra.news/p/entra-mind-maps)  
+[AADInternals](https://aadinternals.com/)  
 [Azure Governance Visualizer - AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting)  
 PowerShell script that captures Azure Governance related information and generate a report  
 [KQL Search](https://www.kqlsearch.com/)  
