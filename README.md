@@ -56,6 +56,10 @@ A collection of animated icons
 A collection of animated icons  
 [Iconbuddy](https://iconbuddy.com/)  
 
+### Wallpaper
+[WallpaperHub](https://www.wallpaperhub.app/)  
+[Unplash](https://unsplash.com/)  
+
 ## Google Cloud
 
 [Google - Cloud Skills Boost](https://www.cloudskillsboost.google/)  
