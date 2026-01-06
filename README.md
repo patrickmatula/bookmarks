@@ -34,6 +34,7 @@ Information about deploying with Terraform
 [Flexoki](https://stephango.com/flexoki)  
 Flexoki is an inky color scheme for prose and code  
 [Color Palettes Generator](https://mycolor.space/)  
+[Another Color Palettes Generator](https://ccolorpalette.com/)  
 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)  
 [Smart Interface Design Patterns](https://smart-interface-design-patterns.com/)  
 [Who can use this color combination?](https://www.whocanuse.com/)  
