@@ -166,6 +166,7 @@ A WinDbg extension to trace COM interactions
 [DbgKit - WinDbg extension](https://github.com/pmatula/Debugging-Tools-Andrey-Bazhan/blob/master/DbgKit.zip)  
 [PDE - WinDbg extension](https://onedrive.live.com/?authkey=%21AJeSzeiu8SQ7T4w&id=DAE128BD454CF957%217152&cid=DAE128BD454CF957)  
 by Andrew Richards  
+[WindowSill](https://getwindowsill.app)  
 
 ### Troubleshooting
 
