@@ -29,6 +29,7 @@ Information about deploying with Terraform
 [Azure Landing Zones Library](https://azure.github.io/Azure-Landing-Zones-Library)  
 [AMBA - Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts)  
 [Azure RBAC Catalog](https://rbac-catalog.dev/)  
+[Azure Quick Review](https://azure.github.io/azqr/)  
 
 ## Design
 
