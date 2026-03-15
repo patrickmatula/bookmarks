@@ -117,6 +117,7 @@ Online deep-dive learning for .NET developers
 End-to-end encrypted note taking with sharing  
 [PDF Split And Merge](https://pdfsam.org/)  
 [True Devtool](https://truedevtools.com/)  
+[Defuddle](http://defuddle.md/)  
 
 ## Security
 
