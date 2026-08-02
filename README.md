@@ -42,6 +42,8 @@ Flexoki is an inky color scheme for prose and code
 [Who can use this color combination?](https://www.whocanuse.com/)  
 It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.  
 [Dropbox Color](https://brand.dropbox.com/color)  
+[GitHub Primer](https://primer.style/)  
+The design system used at GitHub  
 
 ### Icons
 
