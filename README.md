@@ -137,6 +137,8 @@ High performance self-hosted photo and video management solution
 bookmark-everything app with a touch of AI for the data hoarders out there.  
 [Uptime Kuma](https://github.com/louislam/uptime-kuma)  
 Uptime Kuma is an easy-to-use self-hosted monitoring tool.  
+[Jellyfin](https://github.com/jellyfin/)  
+Jellyfin provides media streaming from a dedicated, self-hosted server to end-user devices via multiple client apps or the web.  
 
 ## Windows
 
