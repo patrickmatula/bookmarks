@@ -141,6 +141,8 @@ bookmark-everything app with a touch of AI for the data hoarders out there.
 Uptime Kuma is an easy-to-use self-hosted monitoring tool.  
 [Jellyfin](https://github.com/jellyfin/)  
 Jellyfin provides media streaming from a dedicated, self-hosted server to end-user devices via multiple client apps or the web.  
+[BookOrbit](https://github.com/bookorbit/bookorbit)  
+A self-hosted library and reading platform for ebooks, PDFs, audiobooks, and comics.  
 
 ## Windows
 
@@ -174,6 +176,8 @@ A WinDbg extension to trace COM interactions
 [PDE - WinDbg extension](https://onedrive.live.com/?authkey=%21AJeSzeiu8SQ7T4w&id=DAE128BD454CF957%217152&cid=DAE128BD454CF957)  
 by Andrew Richards  
 [WindowSill](https://getwindowsill.app)  
+[PowerToys](https://github.com/microsoft/powertoys)  
+Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.  
 
 ### Troubleshooting
 
